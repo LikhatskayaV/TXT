@@ -1,0 +1,6 @@
+favorite_film: Harry_Potter,
+favorite_serial: Game_of_trones,
+favorite_dish: pureshka_s_kotletkoi,
+favorite_season: spring,
+country_to_visit: Iceland.
+
